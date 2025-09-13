@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-08-21 08:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper <a href="https://arxiv.org/abs/2502.15654">Machine-generated text detection prevents language model collapse</a> has been accepted by EMNLP 2025 (main).
