@@ -11,19 +11,17 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: left
     image: vlampos.jpg
-    content: about_einstein.md
+    content: about_vlampos.md
     image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>Office 1.09D</p>
-      <p>UCL Centre for AI</p>
-      <p>90 High Holborn</p>
-      <p>London WC1V 6LJ, UK</p>
+    more_info:
   - align: left
     image: pic-small.png
     content: about_einstein.md
     image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    more_info:
+  - align: left
+    image: pic-small.png
+    content: about_einstein.md
+    image_circular: true # crops the image to make it circular
+    more_info:
 ---
