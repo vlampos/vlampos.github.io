@@ -7,3 +7,28 @@
 
 "Vision":
   color: "#009f36"
+
+"npj Digit Med":
+  url: https://www.nature.com/npjdigitalmed/
+
+"TMLR":
+  url: https://jmlr.org/tmlr/
+
+"PLOS Comp Biol":
+  url: https://journals.plos.org/ploscompbiol/
+
+"PLOS ONE":
+  url: https://journals.plos.org/plosone/
+
+"Sci Rep":
+  url: https://www.nature.com/srep/
+
+"Nat Med":
+  url: https://www.nature.com/nm/
+
+"JMIR":
+  url: https://www.jmir.org/
+
+"ACM TIST":
+  url: https://dl.acm.org/journal/TIST
+
