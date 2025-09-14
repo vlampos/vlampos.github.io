@@ -1,11 +1,11 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
+permalink: /team/
+title: team
 display_heading: false
 description:
 nav: true
-nav_order: 7
+nav_order: 3
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -27,13 +27,7 @@ profiles:
     more_info:
 
 past_members:
-  - name: "Michael Morris"
+  - name: "Dr Michael Morris"
     website: https://www.linkedin.com/in/michael-morris-2aa565304/
-    job: Engineer
-  - name: xx
-    website: XXX
-    job: XXX
-  - name: Dr XXX
-    website: xx
-    job: xx
+    job: PhD student
 ---

@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /repos/
-title: repositories
+title: repos
 description:
 nav: true
-nav_order: 4
+nav_order: 6
 ---
 
 {% if site.data.repositories.github_repos %}
