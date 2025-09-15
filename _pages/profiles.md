@@ -16,14 +16,14 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info:
   - align: left
-    image: pic-small.png
-    content: about_einstein.md
-    image_circular: true # crops the image to make it circular
+    image: yuxuan_shu.png
+    content: about_yuxuan_shu.md
+    image_circular: true
     more_info:
   - align: left
-    image: pic-small.png
-    content: about_einstein.md
-    image_circular: true # crops the image to make it circular
+    image: magnus_ross.png
+    content: about_magnus_ross.md
+    image_circular: true
     more_info:
 
 past_members:
