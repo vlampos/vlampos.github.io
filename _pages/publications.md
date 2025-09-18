@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: 
-display_heading: true
+display_heading: false
 nav: true
 nav_order: 2
 ---
@@ -13,6 +13,8 @@ nav_order: 2
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
+
+<h3 style="text-align:right">Publications</h3>
 
 <div class="publications">
 

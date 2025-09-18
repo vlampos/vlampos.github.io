@@ -8,4 +8,6 @@
   <a href="https://scholar.google.com/citations?user=dPfmkBcAAAAJ"><i class="ai ai-google-scholar ai-lg" title="Google Scholar"></i></a>
   <span style="margin-right:5px"></span>
   <a href="https://bsky.app/profile/magnusar.bsky.social"><i class="fa-brands fa-bluesky fa-lg" title="Bluesky"></i></a>
+  <span style="margin-right:5px"></span>
+  <a href="https://www.linkedin.com/in/magnus-ross-9946a1172/"><i class="fab fa-linkedin fa-lg" title="Linkedin"></i></a>
 </p>

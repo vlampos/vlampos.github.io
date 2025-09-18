@@ -5,9 +5,9 @@ permalink: /
 subtitle:
 
 profile:
-  align:
-  image:
-  image_circular:
+  align: right
+  image: logo.png           # insert a group image here
+  image_circular: false
   more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -24,12 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<img src="{{ '/assets/img/logo.png' | relative_url }}" alt="{{ site.title }}" height="40" class="logo-light">
-<img src="{{ '/assets/img/logo-dark.png' | relative_url }}" alt="{{ site.title }}" height="40" class="logo-dark">
+We are a group based at <a href="https://www.ucl.ac.uk/engineering/computer-science">UCL Computer Science</a> within the <a href="https://www.ucl.ac.uk/engineering/research/centres-institutes-and-labs/ucl-centre-artificial-intelligence">UCL Centre for Artificial Intelligence (AI)</a>. We conduct research within the domains of machine learning, natural language processing or, more plainly, AI.
 
-We are a group based at <a href="">UCL Computer Science</a> within the <a href="">UCL Centre for Artificial Intelligence</a>. xxxxx xxx xxxxxxx xxxxxx xxxxxx xxxxxx
-
-explain
-    <p>UCL Centre for AI</p>
-    <p>90 High Holborn</p>
-    <p>London WC1V 6LJ, UK</p>
+<a href="/omega/">Why Ω?</a>

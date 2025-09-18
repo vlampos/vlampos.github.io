@@ -4,7 +4,7 @@ layout: page
 <div class="post">
   <article>
     {% if page.profiles %}
-    <h3>Current members</h3>
+    <h3 style="text-align:right">Current members</h3>
       {% for profile in page.profiles %}
         <hr>
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
@@ -39,7 +39,7 @@ layout: page
 <div class="post">
   <article>
     {% if page.past_members %}
-      <br /><h3>Past members / Alumni</h3>
+      <br /><h3 style="text-align:right">Past members / Alumni</h3>
       <hr>
       <p>
         {% for person in page.past_members %}

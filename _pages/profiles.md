@@ -11,37 +11,37 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
-    image: vlampos.jpg
+    image: member-photos/vlampos.jpg
     content: about_vlampos.md
     image_circular: true # crops the image to make it circular
     more_info:
   - align: left
-    image: yuxuan_shu.png
+    image: member-photos/yuxuan_shu.png
     content: about_yuxuan_shu.md
     image_circular: true
     more_info:
   - align: left
-    image: george_drayson.png
+    image: member-photos/george_drayson.jpeg
     content: about_george_drayson.md
     image_circular: true
     more_info:
   - align: left
-    image: zahra_solati.png
+    image: member-photos/zahra_solati.jpeg
     content: about_zahra_solati.md
     image_circular: true
     more_info:
   - align: left
-    image: magnus_ross.png
+    image: member-photos/magnus_ross.png
     content: about_magnus_ross.md
     image_circular: true
     more_info:
   - align: left
-    image: jinyu_li.png
+    image: member-photos/jinyu_li.png
     content: about_jinyu_li.md
     image_circular: true
     more_info:
   - align: left
-    image: ruoqing_yin.jpeg
+    image: member-photos/ruoqing_yin.jpeg
     content: about_ruoqing_yin.md
     image_circular: true
     more_info:
