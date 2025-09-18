@@ -1,13 +1,13 @@
 <p>
-<strong>Yuxuan Shu</strong> is a PhD student at the group. She is working on time series forecasting and AI for health, with a focus on multivariable understanding. Outside of research, Yuxuan enjoys photography and hiking.
+<strong>George Drayson</strong> is a PhD student in the group.
 </p>
 
-<p style="margin-top:28px">
-  <a href="https://claudiashu.github.io/"><i class="fa fa-home fa-2x" title="Personal website"></i></a>
+<p>
+  <a href="https://georgedrayson.com/"><i class="fa fa-home fa-lg" title="Personal website"></i></a>
   <span style="margin-right:5px"></span>
-  <a href="https://scholar.google.com/citations?user=6ucM9woAAAAJ"><i class="ai ai-google-scholar ai-2x" title="Google Scholar"></i></a>
+  <a href="https://scholar.google.com/citations?user=yV14bx_VlvoC"><i class="ai ai-google-scholar ai-lg" title="Google Scholar"></i></a>
   <span style="margin-right:5px"></span>
-  <a href="https://x.com/yuxuan_shu"><i class="fab fa-twitter fa-2x" title="Twitter/X"></i></a>
+  <a href="https://x.com/g_drayson"><i class="fab fa-twitter fa-lg" title="Twitter/X"></i></a>
   <span style="margin-right:5px"></span>
-  <a href="https://orcid.org/0000-0003-0089-2646"><i class="ai ai-orcid ai-2x" title="orcid"></i></a>
+  <a href="https://www.linkedin.com/in/george-drayson/"><i class="fab fa-linkedin fa-lg" title="Linkedin"></i></a>
 </p>

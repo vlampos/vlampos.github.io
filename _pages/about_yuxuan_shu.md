@@ -1,8 +1,8 @@
 <p>
-<strong>Yuxuan Shu</strong> is a PhD student at the group. She is working on time series forecasting and AI for health, with a focus on multivariable understanding. Outside of research, Yuxuan enjoys photography and hiking.
+<strong>Yuxuan Shu</strong> is a PhD student in the group. She is working on time series forecasting and AI for health, with a focus on multivariable understanding. Outside of research, Yuxuan enjoys photography and hiking.
 </p>
 
-<p style="margin-top:28px">
+<p>
   <a href="https://claudiashu.github.io/"><i class="fa fa-home fa-lg" title="Personal website"></i></a>
   <span style="margin-right:5px"></span>
   <a href="https://x.com/yuxuan_shu"><i class="fab fa-twitter fa-lg" title="Twitter/X"></i></a>
