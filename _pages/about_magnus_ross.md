@@ -3,9 +3,9 @@
 </p>
 
 <p style="margin-top:28px">
-  <a href="https://magnusross.github.io/"><i class="fa fa-home fa-2x" title="Personal website"></i></a>
+  <a href="https://magnusross.github.io/"><i class="fa fa-home fa-lg" title="Personal website"></i></a>
   <span style="margin-right:5px"></span>
-  <a href="https://scholar.google.com/citations?user=dPfmkBcAAAAJ"><i class="ai ai-google-scholar ai-2x" title="Google Scholar"></i></a>
+  <a href="https://scholar.google.com/citations?user=dPfmkBcAAAAJ"><i class="ai ai-google-scholar ai-lg" title="Google Scholar"></i></a>
   <span style="margin-right:5px"></span>
-  <a href="https://bsky.app/profile/magnusar.bsky.social"><i class="fa-brands fa-bluesky fa-2x" title="Bluesky"></i></a>
+  <a href="https://bsky.app/profile/magnusar.bsky.social"><i class="fa-brands fa-bluesky fa-lg" title="Bluesky"></i></a>
 </p>
