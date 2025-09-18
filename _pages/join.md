@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /join-us/
-title: join us
+permalink: /join/
+title: join
 display_heading: false
 description: 
 nav: true

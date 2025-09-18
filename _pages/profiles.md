@@ -21,8 +21,28 @@ profiles:
     image_circular: true
     more_info:
   - align: left
+    image: george_drayson.png
+    content: about_george_drayson.md
+    image_circular: true
+    more_info:
+  - align: left
+    image: zahra_solati.png
+    content: about_zahra_solati.md
+    image_circular: true
+    more_info:
+  - align: left
     image: magnus_ross.png
     content: about_magnus_ross.md
+    image_circular: true
+    more_info:
+  - align: left
+    image: jinyu_li.png
+    content: about_jinyu_li.md
+    image_circular: true
+    more_info:
+  - align: left
+    image: ruoqing_yin.jpeg
+    content: about_ruoqing_yin.md
     image_circular: true
     more_info:
 

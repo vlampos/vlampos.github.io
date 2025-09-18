@@ -2,32 +2,12 @@
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
-      {% if page.permalink != '/' %}
-        <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
-          <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="{{ site.title }}" height="40" class="logo-light">
-          <img src="{{ '/assets/img/logo-dark.png' | relative_url }}" alt="{{ site.title }}" height="40" class="logo-dark">
-          <!--
-          {% if site.title == 'blank' %}
-            {% if site.first_name %}
-              <span class="font-weight-bold">
-                {{- site.first_name -}}
-              </span>
-            {% endif %}
-            {% if site.middle_name %}
-              {{- site.middle_name -}}
-            {% endif %}
-            {% if site.last_name %}
-              {{- site.last_name -}}
-            {% endif %}
-          {% else %}
-            {{- site.title -}}
-          {% endif %}
-          -->
-        </a>
-      {% elsif site.enable_navbar_social %}
-        <!-- Social Icons -->
-        <div class="navbar-brand social">{% include social.liquid %}</div>
-      {% endif %}
+      <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+        <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="{{ site.title }}" height="25" class="logo-light">
+        <img src="{{ '/assets/img/logo-dark.png' | relative_url }}" alt="{{ site.title }}" height="25" class="logo-dark">
+        <span class="font-weight-bold" style="margin-left:0.8rem">research group</span>
+      </a>
+      
       <!-- Navbar Toggle -->
       <button
         class="navbar-toggler collapsed ml-auto"
@@ -141,6 +121,10 @@
           {% endif %}
         </ul>
       </div>
+
+      <!-- social bar -->
+      <div class="navbar-brand social" style="margin-left:1.5rem;">{% include social.liquid %}</div>
+
     </div>
   </nav>
   {% if site.enable_progressbar %}
