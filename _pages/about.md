@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: logo.png           # insert a group image here
+  image: cover-low-res.png           # insert a group image here
   image_circular: false
   more_info:
 
