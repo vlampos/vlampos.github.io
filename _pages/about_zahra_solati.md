@@ -1,5 +1,5 @@
 <p>
-<strong>Zahra Solati Dehkordi</strong> is a PhD student in the group.
+<strong>Zahra Solati Dehkordi</strong> is a PhD student in the group. Her research interests include the application of machine learning methods to image processing, natural language processing, and healthcare. Her current work focuses on role-playing language agents.
 </p>
 
 <p>
