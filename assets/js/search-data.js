@@ -48,7 +48,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/large_001/";
+              window.location.href = "/news/large_001_example/";
             },},{id: "news-our-paper-titled-tracking-covid-19-using-online-search-has-been-published-in-npj-digital-medicine-ucl-news-new-york-times-bbc",
           title: 'Our paper titled “Tracking COVID-19 using online search” has been published in npj...',
           description: "",
@@ -67,7 +67,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-project-foundation-models-for-sequential-predictions-has-been-awarded-10-000-gpuh-on-the-isambard-ai-airr-service",
           title: 'Our project “Foundation models for sequential predictions” has been awarded 10,000 GPUh on...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-fully-funded-phd-studentship-4-years",
+          title: 'Fully-funded PhD studentship (4 years)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/large_002_phd_ad/";
+            },},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
