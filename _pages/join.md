@@ -10,6 +10,26 @@ nav_order: 4
 
 <h3>PhD studentships</h3> (to begin in October 2026 or any date thereafter, duration: 4 years)
 
+---
+
+<h4>Fully-funded PhD studentship</h4> 
+
+Apply for a 4-year PhD scholarship at the Ωmega research group at <a href="">UCL Computer Science</a> and the <a href="">Centre for AI</a>.
+
+<strong>Project title:</strong> One model to forecast them all: towards universal temporal representations
+
+<strong>Deadline:</strong> Jan. 5, 2026
+
+Please check the <a href="https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1648.html">project description</a>, <a href="https://www.jobs.ac.uk/job/DPF708/50-fully-funded-4-year-epsrc-phd-studentships-in-science-and-engineering">the call for applicants</a>, and <a href="https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/ucl-epsrc-landscape-award-uela-studentships">then apply from this page</a>.
+
+Ideally, <a href="">please reach out to me</a> (via an email at v.lampos [AT] ucl.ac.uk titled "UELA PhD studentship application") prior to commencing with your application.
+
+Please note that the 2 references should be submitted before the deadline.
+
+---
+
+<h4>General PhD studentships</h4>
+
 <p>
   If you are interested in a PhD topic in either health and machine learning (any topic we can find data for), time series forecasting or natural language processing, please get in touch. Please have a look at our <a href="/publications">current publications</a> and do not hesitate to reach out via email (<tt style="font-size:0.90em; font-weight:bold">v.lampos@ucl.ac.uk</tt>) for more information. If you are successful in your application, you will be based at the <a href="https://www.ucl.ac.uk/ai-centre/">Centre for Artificial Intelligence</a> (AI) in the <a href="https://www.ucl.ac.uk/computer-science/">Department of Computer Science</a> at <a href="https://www.ucl.ac.uk/">University College London</a> (UCL). UCL is one of the top universities in the world and its AI centre one of the best places for this kind of research training in the UK.  
 </p>

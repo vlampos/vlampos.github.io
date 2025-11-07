@@ -33,7 +33,7 @@ We (Ω) are a research group based at <a href="https://www.ucl.ac.uk/engineering
 </p>
 
 <p>
-  Our more recent research focuses on <strong>modelling sequential information</strong>. We have proposed state-of-the-art forecasting methods for multi-variable time series forecasting (<a href="https://doi.org/10.1371/journal.pcbi.1011392" title="forecasting/uncertainty/epidemiology">1</a>, <a href="https://openreview.net/forum?id=M62P7iOT7d" title="DeformTime">2</a>, <a href="https://arxiv.org/abs/2505.15312" title="Sonnet">3</a>), and have <a href="https://arxiv.org/abs/2502.15654">studied the phenomenon of model collapse</a> that can emerge during the training of <strong>large language models (LLMs)</strong>.
+  Our more recent research focuses on <strong>modelling sequential information</strong>. We have proposed state-of-the-art forecasting methods for multi-variable time series forecasting (<a href="https://doi.org/10.1371/journal.pcbi.1011392" title="forecasting/uncertainty/epidemiology">1</a>, <a href="https://openreview.net/forum?id=M62P7iOT7d" title="DeformTime">2</a>, <a href="https://arxiv.org/abs/2505.15312" title="Sonnet">3</a>), and have <a href="https://aclanthology.org/2025.emnlp-main.1506/">studied the phenomenon of model collapse</a> that can emerge during the training of <strong>large language models (LLMs)</strong>.
 </p>
 
 <p>

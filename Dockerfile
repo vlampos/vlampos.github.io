@@ -31,7 +31,8 @@ RUN apt-get update -y && \
         nodejs \
         procps \
         python3-pip \
-        zlib1g-dev && \
+        zlib1g-dev \
+	ruby-dev && \
     pip --no-cache-dir install --upgrade --break-system-packages nbconvert
 
 # clean up
