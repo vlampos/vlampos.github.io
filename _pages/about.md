@@ -37,7 +37,7 @@ We (Ω) are a research group based at <a href="https://www.ucl.ac.uk/engineering
 </p>
 
 <p>
-  If you would like to join us, <a href="/join/">please read this information</a> and do not hesisate to reach out to find out more.
+  If you would like to join us, <a href="/join/">please read this information</a> and do not hesitate to reach out to find out more.
 </p>
 
 <p style="text-align:right">

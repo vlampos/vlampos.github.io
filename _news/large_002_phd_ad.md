@@ -7,7 +7,7 @@ related_posts: false
 excluded: false
 ---
 
-Apply for a 4-year PhD scholarship at the Ωmega research group at <a href="">UCL Computer Science</a> and the <a href="">Centre for AI</a>.
+Apply for a 4-year, fully-funded PhD studentship at the Ωmega research group at <a href="https://www.ucl.ac.uk/engineering/computer-science">UCL Computer Science</a> and the <a href="https://www.ucl.ac.uk/engineering/research/centres-institutes-and-labs/ucl-centre-artificial-intelligence">Centre for AI</a>.
 
 <strong>Project title:</strong> One model to forecast them all: towards universal temporal representations
 
@@ -17,4 +17,4 @@ Please check the <a href="https://ucl-epsrc-dtp.github.io/2026-27-project-catalo
 
 Ideally, <a href="">please reach out to me</a> (via an email at v.lampos [AT] ucl.ac.uk titled "UELA PhD studentship application") prior to commencing with your application.
 
-Please note that the 2 references should be submitted before the deadline.
+Please note that the 2 references should be submitted before the deadline. International and home students are eligible.
