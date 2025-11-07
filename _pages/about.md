@@ -25,7 +25,7 @@ latest_posts:
 ---
 
 <p>
-We (Ω) are a research group based at <a href="https://www.ucl.ac.uk/engineering/computer-science">UCL Computer Science</a> and the <a href="https://www.ucl.ac.uk/engineering/research/centres-institutes-and-labs/ucl-centre-artificial-intelligence">UCL Centre for Artificial Intelligence (AI)</a>. We conduct research within the domains of machine learning, natural language processing or, more plainly, AI. The group lead is <a href="https://lampos.net/">Dr Vasileios Lampos</a>.
+We (Ω) are a research group based at <a href="https://www.ucl.ac.uk/engineering/computer-science">UCL Computer Science</a> and the <a href="https://www.ucl.ac.uk/engineering/research/centres-institutes-and-labs/ucl-centre-artificial-intelligence">UCL Centre for Artificial Intelligence (AI)</a>. We conduct research within the domains of machine learning and natural language processing or, more plainly, AI. The group lead is <a href="https://lampos.net/">Dr Vasileios Lampos</a>.
 </p>
 
 <p>
