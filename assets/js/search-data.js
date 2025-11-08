@@ -72,7 +72,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/large_002_phd_ad/";
-            },},{id: "news-our-paper-sonnet-spectral-operator-neural-network-for-multivariable-time-series-forecasting-has-been-accepted-by-aaai-2025-main-for-an-oral-presentation",
+            },},{id: "news-our-paper-sonnet-spectral-operator-neural-network-for-multivariable-time-series-forecasting-has-been-accepted-by-aaai-2026-main-for-an-oral-presentation",
           title: 'Our paper “Sonnet: Spectral Operator Neural Network for Multivariable Time Series Forecasting” has...',
           description: "",
           section: "News",},{
