@@ -62,7 +62,7 @@ ninja.data = [{
           title: 'Our paper titled “DeformTime: capturing variable dependencies with deformable attention for time series...',
           description: "",
           section: "News",},{id: "news-our-paper-machine-generated-text-detection-prevents-language-model-collapse-has-been-accepted-by-emnlp-2025-main",
-          title: 'Our paper Machine-generated text detection prevents language model collapse has been accepted by...',
+          title: 'Our paper “Machine-generated text detection prevents language model collapse” has been accepted by...',
           description: "",
           section: "News",},{id: "news-our-project-foundation-models-for-sequential-predictions-has-been-awarded-10-000-gpuh-on-the-isambard-ai-airr-service",
           title: 'Our project “Foundation models for sequential predictions” has been awarded 10,000 GPUh on...',
@@ -72,7 +72,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/large_002_phd_ad/";
-            },},{
+            },},{id: "news-our-paper-sonnet-spectral-operator-neural-network-for-multivariable-time-series-forecasting-has-been-accepted-by-aaai-2025-main-for-an-oral-presentation",
+          title: 'Our paper “Sonnet: Spectral Operator Neural Network for Multivariable Time Series Forecasting” has...',
+          description: "",
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
