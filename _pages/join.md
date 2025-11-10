@@ -22,7 +22,7 @@ Apply for a 4-year, fully-funded PhD studentship at the Ωmega research group at
 
 Please check the <a href="https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1648.html">project description</a>, <a href="https://www.jobs.ac.uk/job/DPF708/50-fully-funded-4-year-epsrc-phd-studentships-in-science-and-engineering">the call for applicants</a>, and <a href="https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/ucl-epsrc-landscape-award-uela-studentships">then apply from this page</a>.
 
-Ideally, <a href="">please reach out to me</a> (via an email at v.lampos [AT] ucl.ac.uk titled "UELA PhD studentship application") prior to commencing with your application.
+Ideally, <a href="">please reach out to Dr Vasileios Lampos</a> (via an email at v.lampos [AT] ucl.ac.uk titled "UELA PhD studentship application") prior to commencing with your application.
 
 Please note that the 2 references should be submitted before the deadline. International and home students are eligible.
 
@@ -44,7 +44,7 @@ Please note that the 2 references should be submitted before the deadline. Inter
 </p>
 
 <p>
-  Please note that although you can definitely contact me without sending a proposal in the first instance, the development of a proposal will be an essential and very crucial part of your application process.
+  Please note that although you can definitely contact Dr Lampos without sending a proposal in the first instance, the development of a proposal will be an essential and very crucial part of your application process.
 </p>
 
 <p>
