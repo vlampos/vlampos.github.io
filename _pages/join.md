@@ -22,7 +22,7 @@ Apply for a 4-year, fully-funded PhD studentship at the Ωmega research group at
 
 Please check the <a href="https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1648.html">project description</a>, <a href="https://www.jobs.ac.uk/job/DPF708/50-fully-funded-4-year-epsrc-phd-studentships-in-science-and-engineering">the call for applicants</a>, and <a href="https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/ucl-epsrc-landscape-award-uela-studentships">then apply from this page</a>.
 
-Ideally, <a href="">please reach out to Dr Vasileios Lampos</a> (via an email at v.lampos [AT] ucl.ac.uk titled "UELA PhD studentship application") prior to commencing with your application.
+Ideally, please reach out to Dr Vasileios Lampos (via an email at <tt style="font-size:0.90em; font-weight:bold">v.lampos AT ucl.ac.uk</tt> titled "UELA PhD studentship application") prior to commencing with your application.
 
 Please note that the 2 references should be submitted before the deadline. International and home students are eligible.
 
@@ -31,7 +31,7 @@ Please note that the 2 references should be submitted before the deadline. Inter
 <h4>General PhD studentships</h4>
 
 <p>
-  If you are interested in a PhD topic in either health and machine learning (any topic we can find data for), time series forecasting or natural language processing, please get in touch. Please have a look at our <a href="/publications">current publications</a> and do not hesitate to reach out via email (<tt style="font-size:0.90em; font-weight:bold">v.lampos@ucl.ac.uk</tt>) for more information. If you are successful in your application, you will be based at the <a href="https://www.ucl.ac.uk/ai-centre/">Centre for Artificial Intelligence</a> (AI) in the <a href="https://www.ucl.ac.uk/computer-science/">Department of Computer Science</a> at <a href="https://www.ucl.ac.uk/">University College London</a> (UCL). UCL is one of the top universities in the world and its AI centre one of the best places for this kind of research training in the UK.  
+  If you are interested in a PhD topic in either health and machine learning (any topic we can find data for), time series forecasting or natural language processing, please get in touch. Please have a look at our <a href="/publications">current publications</a> and do not hesitate to reach out via email (<tt style="font-size:0.90em; font-weight:bold">v.lampos AT ucl.ac.uk</tt>) for more information. If you are successful in your application, you will be based at the <a href="https://www.ucl.ac.uk/ai-centre/">Centre for Artificial Intelligence</a> (AI) in the <a href="https://www.ucl.ac.uk/computer-science/">Department of Computer Science</a> at <a href="https://www.ucl.ac.uk/">University College London</a> (UCL). UCL is one of the top universities in the world and its AI centre one of the best places for this kind of research training in the UK.  
 </p>
 
 
@@ -48,7 +48,7 @@ Please note that the 2 references should be submitted before the deadline. Inter
 </p>
 
 <p>
-  It will be beneficial to begin this process as early as possible in the academic year, e.g. October of year <tt style="font-size:0.95em">x-1</tt>, if you want to start a PhD in September of year <tt style="font-size:0.95em">x</tt>. Detailed instructions for formally applying are available <a href="https://www.ucl.ac.uk/computer-science/study/postgraduate-research/computer-science-mphilphd">here</a> (general PhD in Computer Science call) and <a href="https://www.ucl.ac.uk/scholarships/research-excellence-scholarship">here</a> (UCL research excellence scholarship, <strong>deadline:</strong> January 2025, positions are competitive, but fully funded). Please note that applications unless otherwise stated are formally being reviewed twice in the academic year with <strong>soft submission deadlines</strong> in mid-January and mid-April, and that all PhD candidates will need to go through an interview process. For exceptional cases we might be able to expedite the process outside of these predetermined dates.
+  It will be beneficial to begin this process as early as possible in the academic year, e.g. October of year <tt style="font-size:0.95em">x-1</tt>, if you want to start a PhD in September of year <tt style="font-size:0.95em">x</tt>. Detailed instructions for formally applying are available <a href="https://www.ucl.ac.uk/computer-science/study/postgraduate-research/computer-science-mphilphd">here</a> (general PhD in Computer Science call) and <a href="https://www.ucl.ac.uk/scholarships/research-excellence-scholarship">here</a> (UCL research excellence scholarship, <strong>deadline:</strong> January 2026, positions are competitive, but fully funded). Please note that applications unless otherwise stated are formally being reviewed twice in the academic year with <strong>soft submission deadlines</strong> in mid-January and mid-April, and that all PhD candidates will need to go through an interview process. For exceptional cases we might be able to expedite the process outside of these predetermined dates.
 </p>
 
 <hr>
