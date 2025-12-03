@@ -13,3 +13,7 @@
 "zou":
   - firstname: ["Bin", "B."]
     url: https://scholar.google.co.uk/citations?user=G9uTAbQAAAAJ
+
+"ross":
+  - firstname: ["Magnus", "M."]
+    url: https://magnusross.github.io/
