@@ -6,4 +6,4 @@ related_posts: false
 excluded: false
 ---
 
-Our paper "<a href="https://arxiv.org/abs/2502.15654">Machine-generated text detection prevents language model collapse</a>" has been accepted by EMNLP 2025 (main).
+Our paper "<a href="https://aclanthology.org/2025.emnlp-main.1506/">Machine-generated text detection prevents language model collapse</a>" has been accepted by EMNLP 2025 (main).

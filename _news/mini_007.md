@@ -6,4 +6,4 @@ related_posts: false
 excluded: false
 ---
 
-Our paper "<a href="https://arxiv.org/abs/2505.15312">Sonnet: Spectral Operator Neural Network for Multivariable Time Series Forecasting</a>" has been accepted by AAAI 2026 (main) for an oral presentation.
+Our paper "<a href="assets/pdf/papers/shu2026-sonnet.pdf">Sonnet: Spectral Operator Neural Network for Multivariable Time Series Forecasting</a>" has been accepted by AAAI 2026 (main) for an oral presentation.
