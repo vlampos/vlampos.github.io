@@ -40,7 +40,8 @@ If you study at UCL (Computer Science) and you are interested to do a final year
 <p>
 <strong>Notable (distinction) MSc Theses or Final Year Projects</strong>
 <ul style="margin-top:-10px">
-  	<li>Yueling Huang (2024), <a href="/assets/pdf/theses/2024-yueling-huang.pdf">Optimizing validation methods for influenza-like illness rate prediction models using web queries</a></li>
+  	<li>Trevor Bluth (2025), <a href="/assets/pdf/theses/2025-trevor-bluth.pdf">Multivariate Forecasting for Spatio-Temporal Systems</a></li>
+    <li>Yueling Huang (2024), <a href="/assets/pdf/theses/2024-yueling-huang.pdf">Optimizing validation methods for influenza-like illness rate prediction models using web queries</a></li>
   	<li>Zain Saleem (2024), <a href="/assets/pdf/theses/2024-zain-saleem.pdf">Influenza-like illness rate surveillance using web search queries</a></li>
   	<li>Masashi Asai (2022), <a href="/assets/pdf/theses/2022-masashi-asai.pdf">COVID-19 incidence and health burden modelling at finer geographies using online symptoms search data</a></li>
 </ul>
