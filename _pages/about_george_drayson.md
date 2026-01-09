@@ -1,5 +1,5 @@
 <p>
-<strong>George Drayson</strong> is a PhD student in the group.
+<strong>George Drayson</strong> investigates the long-term behaviour and evolution of LLMs, with a focus on model collapse, continual learning, self-improvement mechanisms, and the role of synthetic data. In his spare time, George is a bit of a petrol head and loves music!
 </p>
 
 <p>
