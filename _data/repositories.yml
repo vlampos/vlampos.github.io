@@ -10,3 +10,12 @@ github_repos:
   - ClaudiaShu/DeformTime
   - ClaudiaShu/Sonnet
   - GeorgeDrayson/model_collapse
+
+general_repos:
+  - name: DeformTime
+    url: https://github.com/ClaudiaShu/DeformTime
+    description: The DeformTime times series forecasting model
+  - name: Sonnet
+    url: https://github.com/ClaudiaShu/Sonnet
+  - name: Mitigating model collapse
+    url: https://GeorgeDrayson/model_collapse
