@@ -18,4 +18,4 @@ general_repos:
   - name: Sonnet
     url: https://github.com/ClaudiaShu/Sonnet
   - name: Mitigating model collapse
-    url: https://GeorgeDrayson/model_collapse
+    url: https://github.com/GeorgeDrayson/model_collapse
