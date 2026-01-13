@@ -36,6 +36,11 @@ profiles:
     image_circular: true
     more_info:
   - align: left
+    image: member-photos/niels_cariou_kotlarek.png
+    content: about_niels_cariou_kotlarek.md
+    image_circular: true
+    more_info:
+  - align: left
     image: member-photos/jinyu_li.png
     content: about_jinyu_li.md
     image_circular: true
