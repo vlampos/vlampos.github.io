@@ -19,3 +19,5 @@ general_repos:
     url: https://github.com/ClaudiaShu/Sonnet
   - name: Mitigating model collapse
     url: https://github.com/GeorgeDrayson/model_collapse
+  - name: IVOS via forecasting of patient physiology
+    url: https://github.com/SAFEHR-data/ivos-model-public
