@@ -10,6 +10,7 @@ github_repos:
   - ClaudiaShu/DeformTime
   - ClaudiaShu/Sonnet
   - GeorgeDrayson/model_collapse
+  - SAFEHR-data/ivos-model-public
 
 general_repos:
   - name: DeformTime
