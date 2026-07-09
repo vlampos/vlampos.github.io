@@ -36,13 +36,23 @@ profiles:
     image_circular: true
     more_info:
   - align: left
+    image: member-photos/jinyu_li.png
+    content: about_jinyu_li.md
+    image_circular: true
+    more_info:
+  - align: left
     image: member-photos/niels_cariou_kotlarek.png
     content: about_niels_cariou_kotlarek.md
     image_circular: true
     more_info:
   - align: left
-    image: member-photos/jinyu_li.png
-    content: about_jinyu_li.md
+    image: member-photos/paschalis_giakoumoglou.jpeg
+    content: about_paschalis_giakoumoglou.md
+    image_circular: true
+    more_info:
+  - align: left
+    image: member-photos/xiao_zhou.jpeg
+    content: about_xiao_zhou.md
     image_circular: true
     more_info:
   - align: left
@@ -50,6 +60,7 @@ profiles:
     content: about_ruoqing_yin.md
     image_circular: true
     more_info:
+
 
 past_members:
   - name: "Dr Michael Morris"
