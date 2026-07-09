@@ -75,6 +75,9 @@ ninja.data = [{
             },},{id: "news-our-paper-sonnet-spectral-operator-neural-network-for-multivariable-time-series-forecasting-has-been-accepted-by-aaai-2026-main-for-an-oral-presentation",
           title: 'Our paper “Sonnet: Spectral Operator Neural Network for Multivariable Time Series Forecasting” has...',
           description: "",
+          section: "News",},{id: "news-we-have-been-awarded-another-10-000-gpuh-on-the-isambard-ai-airr-service",
+          title: 'We have been awarded another 10,000 GPUh on the Isambard AI AIRR service....',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',

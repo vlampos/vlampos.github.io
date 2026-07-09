@@ -1,5 +1,5 @@
 <p>
-<strong>Niels Cariou-Kotlarek</strong> is a research colaborator of the Ωmega research group. He is a PhD fellow in the UCL department of Mathematics funded by the EPSRC. He is interested in stochastic processes, machine learning methods, and financial mathematics. His work primarily explores the use of jump-stochastic processes for simulating and generating financial as well as other related data sets. A key component of his research involves signature feature extraction techniques that allow for the effective representation and analysis of sequential data.
+<strong>Niels Cariou-Kotlarek</strong> is a PhD student in group. He is a PhD fellow in the UCL department of Mathematics funded by the EPSRC. He is interested in stochastic processes, machine learning methods, and financial mathematics. His work primarily explores the use of jump-stochastic processes for simulating and generating financial as well as other related data sets. A key component of his research involves signature feature extraction techniques that allow for the effective representation and analysis of sequential data.
 </p>
 
 <p>
