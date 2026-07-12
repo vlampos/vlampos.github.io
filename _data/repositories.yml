@@ -11,6 +11,7 @@ github_repos:
   - ClaudiaShu/Sonnet
   - GeorgeDrayson/model_collapse
   - SAFEHR-data/ivos-model-public
+  - Code-Cornelius/sigtpp
 
 general_repos:
   - name: DeformTime
@@ -22,3 +23,6 @@ general_repos:
     url: https://github.com/GeorgeDrayson/model_collapse
   - name: IVOS via forecasting of patient physiology
     url: https://github.com/SAFEHR-data/ivos-model-public
+  - name: sigTPP
+    url: https://github.com/Code-Cornelius/sigtpp
+    
