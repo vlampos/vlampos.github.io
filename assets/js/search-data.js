@@ -78,6 +78,12 @@ ninja.data = [{
           section: "News",},{id: "news-we-have-been-awarded-another-10-000-gpuh-on-the-isambard-ai-airr-service",
           title: 'We have been awarded another 10,000 GPUh on the Isambard AI AIRR service....',
           description: "",
+          section: "News",},{id: "news-our-paper-optimising-antibiotic-switching-via-forecasting-of-patient-physiology-has-been-published-in-nature-communications",
+          title: 'Our paper “Optimising antibiotic switching via forecasting of patient physiology” has been published...',
+          description: "",
+          section: "News",},{id: "news-our-paper-from-jumps-to-signatures-a-generative-method-for-temporal-point-processes-has-been-accepted-to-neurips-2026",
+          title: 'Our paper “From Jumps to Signatures: a Generative Method for Temporal Point Processes”...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
