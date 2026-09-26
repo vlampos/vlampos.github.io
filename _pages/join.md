@@ -12,9 +12,9 @@ nav_order: 4
 
 ---
 
-<h4>Fully-funded PhD studentship</h4>
+<h4>Fully-funded PhD studentships</h4>
 
-This opportunity is no longer available. 
+Currently there are no fully-funded PhD studentships available. 
 
 <!--
 Apply for a 4-year, fully-funded PhD studentship at the Ωmega research group at <a href="https://www.ucl.ac.uk/engineering/computer-science">UCL Computer Science</a> and the <a href="https://www.ucl.ac.uk/engineering/research/centres-institutes-and-labs/ucl-centre-artificial-intelligence">Centre for AI</a>.
@@ -35,7 +35,7 @@ Please note that the 2 references should be submitted before the deadline. Inter
 <h4>General PhD studentships</h4>
 
 <p>
-  If you are interested in a PhD topic in either health and machine learning (any topic we can find data for), time series forecasting or natural language processing, please get in touch. Please have a look at our <a href="/publications">current publications</a> and do not hesitate to reach out via email (<tt style="font-size:0.90em; font-weight:bold">v.lampos AT ucl.ac.uk</tt>) for more information. Please <strong>avoid the unsupervised use of LLMs</strong> in crafting emails and research-related materials. If you are successful in your application, you will be based at the <a href="https://www.ucl.ac.uk/ai-centre/">Centre for Artificial Intelligence</a> (AI) in the <a href="https://www.ucl.ac.uk/computer-science/">Department of Computer Science</a> at <a href="https://www.ucl.ac.uk/">University College London</a> (UCL). UCL is one of the top universities in the world and its AI centre one of the best places for this kind of research training in the UK.  
+  If you are interested in a PhD topic in either health and machine learning (any topic we can find data for), time series forecasting or natural language processing, please get in touch. Please have a look at our <a href="/publications">current publications</a> and do not hesitate to reach out via email (<tt style="font-size:0.90em; font-weight:bold">v.lampos AT ucl.ac.uk</tt>) for more information. Please <strong>do not use LLMs</strong> in crafting emails and research-related materials. If you are successful in your application, you will be based at the <a href="https://www.ucl.ac.uk/ai-centre/">Centre for Artificial Intelligence</a> (AI) in the <a href="https://www.ucl.ac.uk/computer-science/">Department of Computer Science</a> at <a href="https://www.ucl.ac.uk/">University College London</a> (UCL). UCL is one of the top universities in the world and its AI centre one of the best places for this kind of research training in the UK.  
 </p>
 
 
@@ -55,6 +55,12 @@ Please note that the 2 references should be submitted before the deadline. Inter
   It will be beneficial to begin this process as early as possible in the academic year, e.g. October of year <tt style="font-size:0.95em">x-1</tt>, if you want to start a PhD in September of year <tt style="font-size:0.95em">x</tt>. Detailed instructions for formally applying are available <a href="https://www.ucl.ac.uk/computer-science/study/postgraduate-research/computer-science-mphilphd">here</a> (general PhD in Computer Science call) and <a href="https://www.ucl.ac.uk/scholarships/research-excellence-scholarship">here</a> (UCL research excellence scholarship, <strong>deadline:</strong> January 2027, positions are competitive, but fully funded). Please note that applications unless otherwise stated are formally being reviewed twice in the academic year with <strong>soft submission deadlines</strong> in mid-January and mid-April, and that all PhD candidates will need to go through an interview process. For exceptional cases we might be able to expedite the process outside of these predetermined dates.
 </p>
 
+<p>
+  It is generally good practice to work towards an application, even when funding is not yet available. Funding opportunities become available throughout the year, and students who are already on our radar tend to be prioritised.
+</p>
+
 <hr>
 
 <h3>Postdoctoral positions</h3> (no funded vacancy available at the moment)
+
+<h3>Internships</h3> Our research group does not offer internships. We may be able to host visiting researchers, but these positions are not funded, and are harder to set up for international researchers given the current legislation.

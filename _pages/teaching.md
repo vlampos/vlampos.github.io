@@ -8,7 +8,9 @@ nav_order: 6
 display_heading: false
 ---
 
-<p>Dr Vasileios Lampos is involved in the teaching of the following two Year 4 / Master level modules led by the department of Computer Science at UCL. Slides of his lectures are attached.</p>
+<p>Dr Vasileios Lampos will commence teaching (module lead) <strong>Applied Machine Learning</strong> (<a href="https://www.ucl.ac.uk/module-catalogue/modules/applied-machine-learning/COMP0081">COMP0084</a>) in 2026/27 academic year. The material produced for this module will be shared here.</p>
+
+<p>In previous years, he was teaching the modules listed below.</p>
 
 <ul style="margin-top:-0.5rem; padding-left:0.8rem">
     <li>
