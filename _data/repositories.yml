@@ -3,6 +3,7 @@ github_users:
   - ClaudiaShu
   - GeorgeDrayson
   - magnusross
+  - LocaiLabs
 
 repo_description_lines_max: 2
 
@@ -12,6 +13,7 @@ github_repos:
   - GeorgeDrayson/model_collapse
   - SAFEHR-data/ivos-model-public
   - Code-Cornelius/sigtpp
+  - LocaiLabs/NEEDLE
 
 general_repos:
   - name: DeformTime
@@ -25,4 +27,6 @@ general_repos:
     url: https://github.com/SAFEHR-data/ivos-model-public
   - name: sigTPP
     url: https://github.com/Code-Cornelius/sigtpp
+  - name: NEEDLE
+    url: https://github.com/LocaiLabs/NEEDLE
     
