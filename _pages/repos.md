@@ -21,9 +21,10 @@ nav_order: 6
 
 {% if site.data.repositories.general_repos %}
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+<div class="repositories d-flex flex-wrap flex-md-row flex-column align-items-center">
   {% for repo in site.data.repositories.general_repos %}
-    <a href="{{ repo.url }}">{{ repo.name }}</a>
+    <span style="margin-right:0.2em"><a href="{{ repo.url }}">{{ repo.name }}</a>
+    ({{ repo.year }})<span style="margin-right:0.6em"></span></span>
   {% endfor %}
 </div>
 {% endif %}

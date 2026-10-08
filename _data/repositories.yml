@@ -9,24 +9,34 @@ repo_description_lines_max: 2
 
 github_repos:
   - ClaudiaShu/DeformTime
-  - ClaudiaShu/Sonnet
   - GeorgeDrayson/model_collapse
+  - ClaudiaShu/Sonnet
   - SAFEHR-data/ivos-model-public
   - Code-Cornelius/sigtpp
   - LocaiLabs/NEEDLE
+  - ZahraSolatiDehkordi/DivLM
 
 general_repos:
   - name: DeformTime
+    year: 2025
     url: https://github.com/ClaudiaShu/DeformTime
     description: The DeformTime times series forecasting model
-  - name: Sonnet
-    url: https://github.com/ClaudiaShu/Sonnet
   - name: Mitigating model collapse
+    year: 2025
     url: https://github.com/GeorgeDrayson/model_collapse
+  - name: Sonnet
+    year: 2026
+    url: https://github.com/ClaudiaShu/Sonnet
   - name: IVOS via forecasting of patient physiology
+    year: 2026
     url: https://github.com/SAFEHR-data/ivos-model-public
   - name: sigTPP
+    year: 2026
     url: https://github.com/Code-Cornelius/sigtpp
   - name: NEEDLE
+    year: 2026
     url: https://github.com/LocaiLabs/NEEDLE
+  - name: DivLM
+    year: 2026
+    url: https://github.com/ZahraSolatiDehkordi/DivLM
     
