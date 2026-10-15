@@ -8,7 +8,7 @@ nav_order: 6
 display_heading: false
 ---
 
-<p>Dr Vasileios Lampos will commence teaching (module lead) <strong>Applied Machine Learning</strong> (<a href="https://www.ucl.ac.uk/module-catalogue/modules/applied-machine-learning/COMP0081">COMP0084</a>) in 2026/27 academic year. The material produced for this module will be shared here.</p>
+<p>Dr Vasileios Lampos will commence teaching (module lead) <strong>Applied Machine Learning</strong> (<a href="https://www.ucl.ac.uk/module-catalogue/modules/applied-machine-learning/COMP0081">COMP0081</a>) in 2026/27 academic year. The material produced for this module will be shared here.</p>
 
 <p>In previous years, he was teaching the modules listed below.</p>
 
@@ -42,7 +42,8 @@ If you study at UCL (Computer Science) and you are interested to do a final year
 <p>
 <strong>Notable (distinction) MSc Theses or Final Year Projects</strong>
 <ul style="margin-top:-10px">
-  	<li>Trevor Bluth (2025), <a href="/assets/pdf/theses/2025-trevor-bluth.pdf">Multivariate Forecasting for Spatio-Temporal Systems</a></li>
+  	<li>Vishal Ruparelia (2026), <a href="/assets/pdf/theses/2026-vishal-ruparelia.pdf">GraphTCN: A Geometric Extension of ModernTCN for Multivariate Time-Series Forecasting</a></li>
+    <li>Trevor Bluth (2025), <a href="/assets/pdf/theses/2025-trevor-bluth.pdf">Multivariate Forecasting for Spatio-Temporal Systems</a></li>
     <li>Yueling Huang (2024), <a href="/assets/pdf/theses/2024-yueling-huang.pdf">Optimizing validation methods for influenza-like illness rate prediction models using web queries</a></li>
   	<li>Zain Saleem (2024), <a href="/assets/pdf/theses/2024-zain-saleem.pdf">Influenza-like illness rate surveillance using web search queries</a></li>
   	<li>Masashi Asai (2022), <a href="/assets/pdf/theses/2022-masashi-asai.pdf">COVID-19 incidence and health burden modelling at finer geographies using online symptoms search data</a></li>
