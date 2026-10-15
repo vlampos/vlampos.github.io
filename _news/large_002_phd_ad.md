@@ -4,7 +4,7 @@ title: "Fully-funded PhD studentship (4 years)"
 date: 2025-11-01
 inline: false
 related_posts: false
-excluded: false
+excluded: true
 ---
 
 Apply for a 4-year, fully-funded PhD studentship at the Ωmega research group at <a href="https://www.ucl.ac.uk/engineering/computer-science">UCL Computer Science</a> and the <a href="https://www.ucl.ac.uk/engineering/research/centres-institutes-and-labs/ucl-centre-artificial-intelligence">Centre for AI</a>.

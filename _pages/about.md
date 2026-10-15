@@ -16,7 +16,7 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 7 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -33,7 +33,7 @@ We (Ω) are a research group based at <a href="https://www.ucl.ac.uk/engineering
 </p>
 
 <p>
-  Our more recent research focuses on <strong>modelling sequential information</strong>. We have proposed state-of-the-art forecasting methods for multi-variable time series forecasting (<a href="https://doi.org/10.1371/journal.pcbi.1011392" title="forecasting/uncertainty/epidemiology">1</a>, <a href="https://openreview.net/forum?id=M62P7iOT7d" title="DeformTime">2</a>, <a href="https://arxiv.org/abs/2505.15312" title="Sonnet">3</a>), and have <a href="https://aclanthology.org/2025.emnlp-main.1506/">studied the phenomenon of model collapse</a> that can emerge during the training of <strong>large language models (LLMs)</strong>.
+  Our more recent research focuses on <strong>modelling sequential information</strong>. We have proposed state-of-the-art forecasting methods for multi-variable time series forecasting (<span style="font-variant: small-caps"><a href="https://openreview.net/forum?id=M62P7iOT7d" title="DeformTime">DeformTime</a></span>, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/39736" title="Sonnet">Sonnet</a>) and temporal point processes (<span style="font-variant: small-caps"><a href="https://arxiv.org/abs/2607.06652">SigTPP</a></span>) and have worked on methods for <a href="https://aclanthology.org/2025.emnlp-main.1506/">mitigating model collapse</a>, <a href="https://arxiv.org/abs/2610.06729">enhancing diversity</a>, and <a href="https://arxiv.org/abs/2610.00348">removing backdoors</a> in LLMs.
 </p>
 
 <p>
