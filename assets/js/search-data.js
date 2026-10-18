@@ -87,6 +87,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-from-jumps-to-signatures-a-generative-method-for-temporal-point-processes-has-been-accepted-to-neurips-2026",
           title: 'Our paper “From Jumps to Signatures: a Generative Method for Temporal Point Processes”...',
           description: "",
+          section: "News",},{id: "news-we-are-delighted-to-embark-on-a-new-interdisciplinary-project-led-by-dr-alex-lloyd-aiming-to-develop-and-assess-personalised-interventions-for-problematic-social-media-use",
+          title: 'We are delighted to embark on a new interdisciplinary project led by Dr...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
