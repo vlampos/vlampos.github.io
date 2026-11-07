@@ -1,5 +1,5 @@
 <p>
-<strong>Paschalis Giakoumoglou</strong> is a PhD student in the group.
+<strong>Paschalis Giakoumoglou</strong> is a PhD student in the group. His research focuses on foundation models for time series.
 </p>
 
 <p style="margin-top:28px">

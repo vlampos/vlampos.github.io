@@ -1,5 +1,5 @@
 <p>
-<strong>Xiao Zhou</strong> is a PhD student in the group.
+<strong>Xiao Zhou</strong> is a PhD student in the group. His research focuses on multimodal models for time series.
 </p>
 
 <p>
