@@ -30,11 +30,11 @@ profiles:
     content: about_zahra_solati.md
     image_circular: true
     more_info:
-  - align: left
-    image: member-photos/magnus_ross.png
-    content: about_magnus_ross.md
-    image_circular: true
-    more_info:
+  # - align: left
+  #  image: member-photos/magnus_ross.png
+  #  content: about_magnus_ross.md
+  #  image_circular: true
+  #  more_info:
   - align: left
     image: member-photos/jinyu_li.png
     content: about_jinyu_li.md
@@ -56,14 +56,21 @@ profiles:
     image_circular: true
     more_info:
   - align: left
+    image: member-photos/nicholas_hadas.jpeg
+    content: about_nicholas_hadas.md
+    image_circular: true
+    more info: 
+  - align: left
     image: member-photos/ruoqing_yin.jpeg
     content: about_ruoqing_yin.md
     image_circular: true
     more_info:
 
-
 past_members:
   - name: "Dr Michael Morris"
     website: https://www.linkedin.com/in/michael-morris-2aa565304/
     job: PhD student
+  - name: "Dr Magnus Ross"
+    website: https://magnusross.github.io/
+    job: Research Fellow
 ---

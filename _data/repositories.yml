@@ -4,6 +4,8 @@ github_users:
   - GeorgeDrayson
   - magnusross
   - LocaiLabs
+  - Code-Cornelius
+  - ZahraSolatiDehkordi
 
 repo_description_lines_max: 2
 
@@ -15,12 +17,12 @@ github_repos:
   - Code-Cornelius/sigtpp
   - LocaiLabs/NEEDLE
   - ZahraSolatiDehkordi/DivLM
+  - ClaudiaShu/MAPS
 
 general_repos:
   - name: DeformTime
     year: 2025
     url: https://github.com/ClaudiaShu/DeformTime
-    description: The DeformTime times series forecasting model
   - name: Mitigating model collapse
     year: 2025
     url: https://github.com/GeorgeDrayson/model_collapse
@@ -30,7 +32,7 @@ general_repos:
   - name: IVOS via forecasting of patient physiology
     year: 2026
     url: https://github.com/SAFEHR-data/ivos-model-public
-  - name: sigTPP
+  - name: SigTPP
     year: 2026
     url: https://github.com/Code-Cornelius/sigtpp
   - name: NEEDLE
@@ -39,4 +41,7 @@ general_repos:
   - name: DivLM
     year: 2026
     url: https://github.com/ZahraSolatiDehkordi/DivLM
+  - name: MAPS
+    year: 2026
+    url: https://github.com/ClaudiaShu/MAPS
     
